@@ -1,8 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+#include <stdio.h>
+/**
+ * main - This function outputs wheather n is positive or negative.
+ * Return: - This retursn 0 when successful.
+ */
 int main(void)
 {
 	int n;
