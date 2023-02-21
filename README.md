@@ -1,2 +1,1 @@
-# alx-low_level_programming
-# this is my very first repo on the C language
+This is a new Repository for me to learn low level programming, thanks to our Big Brothers all around Africa! Big up yourselves..
